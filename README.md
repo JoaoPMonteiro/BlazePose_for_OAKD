@@ -1,4 +1,4 @@
-# BlazePose for the [OAK-D](https://docs.luxonis.com/projects/hardware/en/latest/pages/BW1098OAK.html)
+### BlazePose for the [OAK-D](https://docs.luxonis.com/projects/hardware/en/latest/pages/BW1098OAK.html)
 
 ---
 **intro**
